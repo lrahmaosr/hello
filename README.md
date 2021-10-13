@@ -1,4 +1,4 @@
 # hello
 First assignment
 
-Create a program to print "Hello world!" to the console.
+Edit the file hello.py to print "Hello world!" to the console.
